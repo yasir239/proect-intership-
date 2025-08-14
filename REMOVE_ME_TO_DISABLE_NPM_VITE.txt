@@ -1,0 +1,10 @@
+You can safely delete these files/folders to remove npm/Vite from your Laravel project:
+
+- vite.config.js
+- package.json
+- resources/js/
+- resources/css/
+- node_modules/ (if present)
+- public/build/ (if present)
+
+These are not needed for a plain PHP/Blade Laravel app.
